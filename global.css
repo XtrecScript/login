@@ -1,0 +1,66 @@
+*{margin: 0;, padding: 0;}
+body{
+    background-image: url('background.png');
+    background-position: ;
+    background-repeat: repeat;
+    background-size: cover;
+
+
+	padding-top: 30vh;
+    <font: color=#ffffff;> </font>
+}
+
+.form-container{
+	width: 250px;
+	height: auto;
+	padding: 20px 30px;
+	background-color: #000000 ;
+	border-radius: 10px;
+    box-shadow: 0 0 10px 0 #000;
+    margin: auto;
+    position: relative;
+    color: white;
+    font-size: 25px;
+}
+
+.soda{
+	background:url('soda.png');
+	width: 90px;
+	height: 90px;
+	background-size: 100%;
+	position: absolute;
+	top: -67px;
+	left: 115px;
+	border-radius: 18px;
+   
+}
+
+form.l1{
+   text-align: center;
+}
+
+form.l1 label {
+   width: 250px;
+   margin-bottom: 13px;
+   margin-top: 4px;
+}
+
+form.l1 input {
+	width: 250px;
+	padding: 8px 0px;
+	border: none;
+	background-color: #747474;
+	border-radius: 5px;
+	color: white;
+	margin-top: 7px;
+	font-size: 18px;
+	text-align: center;
+
+}
+
+form.l1 input[type="button"]{
+	background-color: #292929;
+	margin-top: 10px;
+	color: white;
+	font-size: 18px;
+}
